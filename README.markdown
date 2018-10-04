@@ -158,7 +158,3 @@ It parses these lines, and aggregates stats on the most memory consuming keys, p
 	or
 
 	rdb -c memory /var/lib/redis/dump.rdb | ./redis-mem-stats.py
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/salimane/redis-tools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
